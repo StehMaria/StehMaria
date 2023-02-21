@@ -62,10 +62,14 @@ About me:
 <p>Intellij</p>
 <p>Android Studio</p>
 
+##
+
 ### Plataforms/OS 
 
 <p>Linux</p>
 <p>Android</p>
+
+##
 
 ### Cibersecurity (offensive and defensive tools)
 
