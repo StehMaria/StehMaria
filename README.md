@@ -9,8 +9,6 @@ About me:
 - 💻 I’m currently working on Security Operations Center (SOC)
 - 🌱 I’m currently learning Cibersecurity
 - 📌 Developer and Cibersecurity Specialist
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - ⚡ Fun fact: I like **ducks** and **Michael Jackson**!!!
 
 ##
@@ -25,6 +23,7 @@ About me:
 ### Languages/Frameworks 🧶
 
 #### Mobile 
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" height="70px"/>
 
 #### IoT
