@@ -1,28 +1,69 @@
-<img src="pato.gif" align="right" width="375px"/>
+
 
 # Olá, eu sou a Steh 👋👩🏽
 
----
-##
-
+<img src="pato.gif" align="right" width="350px"/>
 
 About me:
 
 - 💻 I’m currently working on Security Operations Center (SOC)
-- 🌱 I’m currently learning Cybersecurity
-- 👯 I’m looking to collaborate on ...
+- 🌱 I’m currently learning Cibersecurity
+- 📌 Developer and Cibersecurity Specialist
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - ⚡ Fun fact: I like **ducks** and **Michael Jackson**!!!
 
 ##
+
 ### Social Medias 📱
+
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephanie-b-460137162)
 [![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
 
+##
 
+### Languages/Frameworks 🧶
+
+#### Mobile 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40px"/>
+<p>Flutter</p>
+<p>Dart</p>
 
+#### IoT
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40px"/>
+<p>C</p>
+<p>C++</p>
+
+#### Artificial Inteligence and Data Science
+<p>Python</p>
+<p>Tensorflow</p>
+<p>Numpy</p>
+<p>Scikit Learn</p>
+<p>OpenCV</p>
+<p>Matplotlib</p>
+
+#### Web
+<p>Javascript</p>
+<p>HTML</p>
+<p>CSS</p>
+<p>Bootstrap</p>
+<p>jQuery</p>
+<p>Angular</p>
+
+#### Cloud
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40px"/>
+<p>AWS</p>
+<p>Firebase</p>
+<p>Cloud Firestore</p>
+<p>Linux</p>
+<p>Android</p>
+<p>SQL</p>
+
+##
+
+### Softwares, Plataforms/OS, 
+
+### Cibersecurity (offensive and defensive tools)
 
 
 <img src = "banner.gif" width = "275px" align="right"/>
