@@ -81,14 +81,22 @@ About me:
 
 <p>Linux</p>
 <p>Android</p>
+
+##
+
+<p>Arduino</p>
 <p>Jupyter Notebook</p>
 <p>Anaconda</p>
+<p>Pycharm</p>
+
 
 ##
 
 ### Cibersecurity (offensive and defensive tools)
 
 <p>Kali Linux</p>
+<p>Elk Stack</p>
+<p>Datadog</p>
 
 ---
 
