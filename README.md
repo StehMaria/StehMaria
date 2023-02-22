@@ -6,8 +6,8 @@
 
 About me:
 
-- 💻 I’m currently working on Security Operations Center (SOC)
-- 🌱 I’m currently learning Cibersecurity
+- 💻 I’m currently working with Security Operations Center (SOC)
+- 🌱 I’m currently learning about Cibersecurity
 - 📌 Developer and Cibersecurity Specialist
 - ⚡ Fun fact: I like **ducks** and **Michael Jackson**!!!
 
@@ -23,22 +23,30 @@ About me:
 ### Languages/Frameworks 🧶
 
 #### Mobile 
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" height="70px"/>
+<div style=display:inline-block>
+<img align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40px"/>
+<img align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" height="70px"/>
+</div>
 
 #### IoT
-<p>C</p>
-<p>C++</p>
+<div style=display:inline-block>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height=40px/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height=40px/>
+</div>
 
 #### Artificial Inteligence and Data Science
-<p>Python</p>
-<p>Tensorflow</p>
-<p>Numpy</p>
+<div style=display:inline-block>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height=50px/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" height=70px/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" height=70px/>
+
 <p>Scikit Learn</p>
 <p>OpenCV</p>
 <p>Matplotlib</p>
+</div>
 
 #### Web
+<div style=display:inline-block>
 <p>Javascript</p>
 <p>HTML</p>
 <p>CSS</p>
@@ -46,20 +54,26 @@ About me:
 <p>jQuery</p>
 <p>Angular</p>
 <p>Nodejs</p>
+</div>
 
 #### Cloud
+<div style=display:inline-block>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40px"/>
 <p>Firebase</p>
 <p>Cloud Firestore</p>
+</div>
+
+#### Database
 <p>SQL</p>
 
 ##
 
 ### Softwares
-
+<div style=display:inline-block>
 <p>Visual Code</p>
 <p>Intellij</p>
 <p>Android Studio</p>
+</div>
 
 ##
 
@@ -67,6 +81,8 @@ About me:
 
 <p>Linux</p>
 <p>Android</p>
+<p>Jupyter Notebook</p>
+<p>Anaconda</p>
 
 ##
 
@@ -78,3 +94,4 @@ About me:
 
 ![Steh's GitHub stats](https://github-readme-stats.vercel.app/api?username=StehMaria&theme=tokyonight&count_private=true)
 ![Steh's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=StehMaria&theme=tokyonight)
+![Snake animation](https://github.com/StehMaria/StehMaria/blob/output/github-contribution-grid-snake.svg)
