@@ -54,7 +54,7 @@ About me:
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2E86C1&size=20&left=true&vCenter=true&width=1000&lines=Web)](https://git.io/typing-svg)
-<div style=display:inline-block><img src="mj.gif" align="right" width="350px"/>
+<div style=display:inline-block>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=5%/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=5%/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width=5%/>
