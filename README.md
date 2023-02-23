@@ -1,3 +1,4 @@
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2E86C1&height=120&section=header">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2E86C1&size=35&center=true&vCenter=true&width=1000&lines=Hii,+I'm+Steh;I'm+from+Brazil+🟡🟢🔵;Mechatronic+Engineer+:%29)](https://git.io/typing-svg)
@@ -75,7 +76,7 @@ About me:
 
 ##
 
-### Softwares
+### Softwares 👑
 <div style=display:inline-block>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width=5%/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width=5%/>
@@ -83,7 +84,7 @@ About me:
 
 ##
 
-### Plataforms/OS 
+### Plataforms/OS ✔
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -91,12 +92,12 @@ About me:
 ##
 
 
-### Cibersecurity (offensive and defensive tools)
+### Cibersecurity (offensive and defensive tools) ☂
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Elk Stack](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
 ---
-![Steh's GitHub stats](https://github-readme-stats.vercel.app/api?username=StehMaria&theme=tokyonight&count_private=true)
-![Steh's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=StehMaria&theme=tokyonight)
+![Steh's GitHub stats](https://github-readme-stats.vercel.app/api?username=StehMaria&theme=vue&count_private=true)
+![Steh's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=StehMaria&theme=vue)
 ![Snake animation](https://github.com/StehMaria/StehMaria/blob/output/github-contribution-grid-snake.svg)
