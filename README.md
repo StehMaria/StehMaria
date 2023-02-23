@@ -7,6 +7,7 @@
 
 <img src="pato.gif" align="right" width="350px"/>
 
+
 About me:
 
 - 💻 Atualmente, eu estou trabalhando com Centro de Operaçoes de Segurança (SOC)<br>
