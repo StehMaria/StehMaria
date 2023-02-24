@@ -15,58 +15,58 @@ About me:
 - 🌱 Atualmente, eu estou aprendendo sobre Cibersegurança<br>
        I’m currently learning about Cybersecurity
 - 📌 Desenvolvedora e Especialista em Cibersegurança<br>
-       Developer and Cibersecurity Specialist
+       Developer and Cybersecurity Specialist
 - ⚡ Eu gosto de patos e MJ!!!<br>
        Fun fact: I like **ducks** and **Michael Jackson**!!!
 
 
-### Social Medias 📱
+### Mídias Sociais (Social Medias) 📱
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephanie-b-460137162)
 [![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
 
 
 
-### Languages/Frameworks 🧶
+### Linguagens/Frameworks (Languages/Frameworks) 🧶
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=17202A&size=20&left=true&vCenter=true&width=1000&lines=Mobile)](https://git.io/typing-svg)
 <div style=display:inline-block>
-<img align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="5%"/>
+<img align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="5%"/>&nbsp&nbsp
 <img align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="5%"/>
 </div>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=17202A&size=20&left=true&vCenter=true&width=1000&lines=IoT)](https://git.io/typing-svg)
 <div style=display:inline-block>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width=5%/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width=5%/>&nbsp&nbsp
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width=5%/>
 </div>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=17202A&size=20&left=true&vCenter=true&width=1000&lines=Artificial+Inteligence+and+Data+Science)](https://git.io/typing-svg)
 <div style=display:inline-block>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=5%/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width=5%/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width=5%/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=5%/>&nbsp&nbsp
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width=5%/>&nbsp&nbsp
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width=5%/>&nbsp&nbsp
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width=5%/>
 </div>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=17202A&size=20&left=true&vCenter=true&width=1000&lines=Web)](https://git.io/typing-svg)
 <div style=display:inline-block>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=5%/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=5%/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width=5%/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width=5%/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width=5%/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=5%/>&nbsp&nbsp
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=5%/>&nbsp&nbsp
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width=5%/>&nbsp&nbsp
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width=5%/>&nbsp&nbsp
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width=5%/>&nbsp&nbsp
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width=5%/>
 </div>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=17202A&size=20&left=true&vCenter=true&width=1000&lines=Cloud)](https://git.io/typing-svg)
 <div style=display:inline-block>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="5%"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="5%"/>&nbsp&nbsp
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width=5%/>
 </div>
 
@@ -76,15 +76,22 @@ About me:
 
 
 
-### Softwares 👑
+### Programas (Softwares) 👑
 <div style=display:inline-block>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width=5%/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width=5%/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width=4%/>&nbsp&nbsp
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width=4%/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width=4%/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width=4%/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width=4%/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" width=5%/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" width=4%/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=4%/>
+
 </div>
 
 
 
-### Plataforms/OS ✔
+### Plataformas/SO (Plataforms/OS) ✔
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -92,7 +99,7 @@ About me:
 
 
 
-### Cibersecurity (offensive and defensive tools) ☂
+### Cibersegurança - ferramentas ofensivas e defensivas (Cibersecurity - offensive and defensive tools) ☂
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Elk Stack](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
