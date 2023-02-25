@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2E86C1&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+a+Steh;Sou+do+Brasil+🟡🟢🔵;Engenheira+Mecatrônica+:%29)](https://git.io/typing-svg)
 
-## Olá, eu sou a Steh 👋👩
+<h3> Olá, eu sou a Steh 👋👩 </h3>
 
 <img src="pato.gif" align="right" width="350px"/>
 
@@ -101,26 +101,20 @@ About me:
 
 ---
 <div align="center">  
-  <img width="50%" height="195px" src=https://github-readme-stats.vercel.app/api?username=StehMaria&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Steh Maria github stats" /> 
-<img width="30%" height="195px" src=https://github-readme-stats.vercel.app/api/top-langs/?username=StehMaria&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+  <img width="50%" height="195px" src=https://github-readme-stats.vercel.app/api?username=StehMaria&show_icons=true&count_private=true&hide_border=true&title_color=2E86C1&icon_color=2E86C1&text_color=00000&bg_color=0d1117" alt="Steh Maria github stats" /> 
+<img width="30%" height="195px" src=https://github-readme-stats.vercel.app/api/top-langs/?username=StehMaria&layout=compact&hide_border=true&title_color=2E86C1&text_color=00000&bg_color=0d1117" />
 </div>
 
 ![Snake animation](https://github.com/StehMaria/StehMaria/blob/output/github-contribution-grid-snake.svg)
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=StehMaria&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=StehMaria&bg_color=fffff&color=2E86C1&line=37DBF5&point=2E86C1&area_color=37DBF5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=StehMaria&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=StehMaria&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=StehMaria&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Steh Maria github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StehMaria&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
-</div>
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
@@ -129,5 +123,5 @@ About me:
 </div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2E86C1&height=120&section=footer"/>
 
