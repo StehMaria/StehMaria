@@ -8,10 +8,10 @@
 <img src="pato.gif" align="right" width="350px"/>
 
 
-About me:
+Sobre mim:
 
-- 💻 Atualmente, eu estou trabalhando com Centro de Operaçoes de Segurança (SOC)<br>
-       I’m currently working with Security Operations Center (SOC)
+- 💻 Estou trabalhando com Centro de Operaçoes de Segurança (SOC)<br>
+       I’m working with Security Operations Center (SOC)
 - 🌱 Atualmente, eu estou aprendendo sobre Cibersegurança<br>
        I’m currently learning about Cybersecurity
 - 📌 Desenvolvedora e Especialista em Cibersegurança<br>
@@ -25,35 +25,34 @@ About me:
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephanie-b-460137162)
 [![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
 
+```
+import Desenvolvedor from 'StehMaria';
 
+class Linguagens_Frameworks extends Desenvolvedor {
+  linguagens  = { Mobile: ['Flutter','Dart'],
+                  IoT: ['C','C++'],
+                  IA_e_DataScience: ['Python'],
+                  Web: ['Javascript','HTML5','CSS3','Bootstrap','jQuery','Angular','NodeJS'],
+                  Database: ['SQL']};
+  bibliotecas  = ['Numpy','OpenCV','Pandas'];
+  frameworks = ['Tensorflow'];
+}
+
+```
+#### Output:
 
 ### Linguagens/Frameworks (Languages/Frameworks) 🧶
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=17202A&size=20&left=true&vCenter=true&width=1000&lines=Mobile)](https://git.io/typing-svg)
-<div style=display:inline-block>
-<img align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="5%"/>&nbsp&nbsp
-<img align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="5%"/>
-</div>
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=17202A&size=20&left=true&vCenter=true&width=1000&lines=IoT)](https://git.io/typing-svg)
 <div style=display:inline-block>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="5%"/>&nbsp&nbsp
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="5%"/>&nbsp&nbsp
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width=5%/>&nbsp&nbsp
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width=5%/>
-</div>
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=17202A&size=20&left=true&vCenter=true&width=1000&lines=Artificial+Inteligence+and+Data+Science)](https://git.io/typing-svg)
-<div style=display:inline-block>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width=5%/>&nbsp&nbsp
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=5%/>&nbsp&nbsp
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width=5%/>&nbsp&nbsp
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width=5%/>&nbsp&nbsp
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width=5%/>
-</div>
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=17202A&size=20&left=true&vCenter=true&width=1000&lines=Web)](https://git.io/typing-svg)
-<div style=display:inline-block>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width=5%/>&nbsp&nbsp
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=5%/>&nbsp&nbsp
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=5%/>&nbsp&nbsp
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width=5%/>&nbsp&nbsp
@@ -61,9 +60,6 @@ About me:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width=5%/>&nbsp&nbsp
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width=5%/>
 </div>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=17202A&size=20&left=true&vCenter=true&width=1000&lines=Database)](https://git.io/typing-svg)
-
 
 
 ### Nuvem (Cloud)
@@ -77,7 +73,7 @@ About me:
 ### Programas (Softwares) 👑
 <div style=display:inline-block>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width=4%/>&nbsp&nbsp
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width=4%/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width=4%/>&nbsp&nbsp
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width=4%/>
 
 </div>
@@ -99,7 +95,7 @@ About me:
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 
 
-<div align="center">  
+<div>  
   <img width="50%" height="195px" src=https://github-readme-stats.vercel.app/api?username=StehMaria&show_icons=true&count_private=true&hide_border=true&title_color=2E86C1&icon_color=2E86C1&text_color=00000&bg_color=0d1117" alt="Steh Maria github stats" /> 
 <img width="30%" height="195px" src=https://github-readme-stats.vercel.app/api/top-langs/?username=StehMaria&layout=compact&hide_border=true&title_color=2E86C1&text_color=00000&bg_color=0d1117" />
 </div>
