@@ -29,7 +29,6 @@ About me:
 
 ### Linguagens/Frameworks (Languages/Frameworks) 🧶
 
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=17202A&size=20&left=true&vCenter=true&width=1000&lines=Mobile)](https://git.io/typing-svg)
 <div style=display:inline-block>
 <img align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="5%"/>&nbsp&nbsp
@@ -67,7 +66,7 @@ About me:
 
 
 
-### Cloud
+### Nuvem (Cloud)
 <div style=display:inline-block>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="5%"/>&nbsp&nbsp
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width=5%/>
