@@ -39,7 +39,7 @@ class Linguagens_Frameworks extends Desenvolvedor {
 }
 
 ```
-#### Output:
+#### Saída:
 
 ### Linguagens/Frameworks (Languages/Frameworks) 🧶
 
