@@ -63,16 +63,15 @@ About me:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width=5%/>
 </div>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=17202A&size=20&left=true&vCenter=true&width=1000&lines=Database)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=17202A&size=20&left=true&vCenter=true&width=1000&lines=Cloud)](https://git.io/typing-svg)
+
+
+### Cloud
 <div style=display:inline-block>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="5%"/>&nbsp&nbsp
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width=5%/>
 </div>
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=17202A&size=20&left=true&vCenter=true&width=1000&lines=Database)](https://git.io/typing-svg)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width=5%/>
 
 
 
@@ -99,13 +98,14 @@ About me:
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Elk Stack](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
----
+
 <div align="center">  
   <img width="50%" height="195px" src=https://github-readme-stats.vercel.app/api?username=StehMaria&show_icons=true&count_private=true&hide_border=true&title_color=2E86C1&icon_color=2E86C1&text_color=00000&bg_color=0d1117" alt="Steh Maria github stats" /> 
 <img width="30%" height="195px" src=https://github-readme-stats.vercel.app/api/top-langs/?username=StehMaria&layout=compact&hide_border=true&title_color=2E86C1&text_color=00000&bg_color=0d1117" />
 </div>
 
 ![Snake animation](https://github.com/StehMaria/StehMaria/blob/output/github-contribution-grid-snake.svg)
+
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=StehMaria&bg_color=fffff&color=2E86C1&line=37DBF5&point=2E86C1&area_color=37DBF5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
