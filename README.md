@@ -25,6 +25,8 @@ Sobre mim:
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephanie-m-br)
 [![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
 
+### Linguagens/Frameworks (Languages/Frameworks) 🧶
+
 ```
 import Desenvolvedor from 'StehMaria';
 
@@ -39,9 +41,7 @@ class Linguagens_Frameworks extends Desenvolvedor {
 }
 
 ```
-#### Saída:
-
-### Linguagens/Frameworks (Languages/Frameworks) 🧶
+#### Output:
 
 
 <div style=display:inline-block>
@@ -62,7 +62,7 @@ class Linguagens_Frameworks extends Desenvolvedor {
 </div>
 
 
-### Nuvem (Cloud)
+### Nuvem (Cloud) 🚩
 <div style=display:inline-block>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="5%"/>&nbsp&nbsp
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width=5%/>
