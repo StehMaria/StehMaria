@@ -100,7 +100,7 @@ class Linguagens_Frameworks extends Desenvolvedor {
 <img width="30%" height="195px" src=https://github-readme-stats.vercel.app/api/top-langs/?username=StehMaria&layout=compact&hide_border=true&title_color=2E86C1&text_color=00000&bg_color=0d1117" />
 </div>
 
-![Snake animation](https://github.com/StehMaria/StehMaria/blob/output/github-contribution-grid-snake.svg)
+![snake](https://github.com/StehMaria/StehMaria/blob/output/github-contribution-grid-snake.svg)
 
 
 
