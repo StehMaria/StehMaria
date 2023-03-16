@@ -10,8 +10,8 @@
 
 Sobre mim:
 
-- 💻 Estou trabalhando com Centro de Operaçoes de Segurança (SOC) da Lenovo<br>
-       I’m working with Security Operations Center (SOC)
+- 💻 Estou trabalhando no Centro de Operações de Segurança (SOC) da Lenovo<br>
+       I’m working on Lenovo's Security Operations Center (SOC)
 - 🌱 Atualmente, eu estou aprendendo sobre Cibersegurança<br>
        I’m currently learning about Cybersecurity
 - 📌 Desenvolvedora e Especialista em Cibersegurança<br>
