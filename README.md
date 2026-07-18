@@ -1,7 +1,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2E86C1&height=120&section=header">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2E86C1&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+a+Steh;Sou+do+Brasil+🟡🟢🔵;Engenheira+Mecatrônica+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2E86C1&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+a+Steh;Sou+do+Brasil+🟡🟢🔵;Pesquisadora+de+Segurança+e+Engenheira+:%29;CyberSecurity;Entusiasta+em+IA)](https://git.io/typing-svg)
 
 <h3> Olá, eu sou a Steh 👋👩 </h3>
 
@@ -10,37 +10,42 @@
 
 Sobre mim:
 
-- 💻 Estou trabalhando no Centro de Operações de Segurança (SOC)<br>
-       I’m working on Lenovo's Security Operations Center (SOC)
-- 🌱 Atualmente, eu estou aprendendo sobre Cibersegurança<br>
-       I’m currently learning about Cybersecurity
+- 💻 Já trabalhei no Centro de Operações de Segurança (SOC) e atualmente faço parte do time de Segurança de BIOS e Firmware (BFSRB) da Lenovo<br>
+       
+- 🌱 Atualmente, eu estou aprendendo sobre Inteligência Artificial<br>
+       
 - 📌 Desenvolvedora e Especialista em Cibersegurança<br>
-       Developer and Cybersecurity Specialist
-- ⚡ Eu gosto de patos e MJ!!!<br>
-       Fun fact: I like **ducks** and **Michael Jackson**!!!
+
+- ⚡ Eu gosto de patos e sou fã do MJ!!!<br>
+       
 
 
-### Mídias Sociais (Social Medias) 📱
+### Mídias Sociais 📱
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephanie-m-br)
-[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
 
-### Linguagens/Frameworks (Languages/Frameworks) 🧶
 
-```
+### Linguagens/Frameworks 🧶
+
 import Desenvolvedor from 'StehMaria';
 
-class Linguagens_Frameworks extends Desenvolvedor {
-  linguagens  = { Mobile: ['Flutter','Dart'],
-                  IoT: ['C','C++'],
-                  IA_e_DataScience: ['Python'],
-                  Web: ['Javascript','HTML5','CSS3','Bootstrap','jQuery','Angular','NodeJS'],
-                  Database: ['SQL']};
-  bibliotecas  = ['Numpy','OpenCV','Pandas'];
-  frameworks = ['Tensorflow'];
+class TechStack extends Desenvolvedor {
+  linguagens = { 
+    Core: ['C', 'C++'],
+    Data_AI: ['Python'],
+    Web_Scripting: ['JavaScript', 'Dart'] 
+  };
+  
+  ciberseguranca = ['Kali Linux', 'ELK Stack', 'OpenSSF', 'OWASP Frameworks', 'Checkmarx'];
+  
+  infra_cloud = ['AWS', 'GCP', 'Docker', 'Firebase'];
+  
+  dados_ia = ['TensorFlow', 'Keras', 'PyTorch', 'Scikit-learn', 'Pandas', 'NumPy'];
+  
+  observabilidade = ['Grafana', 'Datadog'];
+  
+  bancos_de_dados = ['MongoDB', 'MySQL', 'PostgreSQL', 'ElasticSearch'];
 }
-
-```
 #### Output:
 
 
@@ -58,41 +63,12 @@ class Linguagens_Frameworks extends Desenvolvedor {
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width=5%/>&nbsp&nbsp
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width=5%/>&nbsp&nbsp
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width=5%/>&nbsp&nbsp
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width=5%/>
-</div>
-
-
-### Nuvem (Cloud) 🚩
-<div style=display:inline-block>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="5%"/>&nbsp&nbsp
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width=5%/>
-</div>
-
-
-
-### Programas (Softwares) 👑
-<div style=display:inline-block>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width=5%/>&nbsp&nbsp
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width=5%/>&nbsp&nbsp
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width=4%/>&nbsp&nbsp
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width=4%/>&nbsp&nbsp
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width=4%/>
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width=4%/>&nbsp&nbsp
 </div>
-
-
-
-### Plataformas/SO (Plataforms/OS) ✔
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-
-
-### Cibersegurança - ferramentas ofensivas e defensivas (Cybersecurity - offensive and defensive tools) ☂
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Elk Stack](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 
 
 <div>  
