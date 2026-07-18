@@ -27,6 +27,7 @@ Sobre mim:
 
 ### Linguagens/Frameworks 🧶
 
+```
 import Desenvolvedor from 'StehMaria';
 
 class TechStack extends Desenvolvedor {
@@ -46,6 +47,8 @@ class TechStack extends Desenvolvedor {
   
   bancos_de_dados = ['MongoDB', 'MySQL', 'PostgreSQL', 'ElasticSearch'];
 }
+```
+
 #### Output:
 
 
