@@ -67,10 +67,6 @@ class TechStack extends Desenvolvedor {
 
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=StehMaria&show_icons=true&count_private=true&hide_border=true&title_color=2E86C1&icon_color=2E86C1&text_color=ffffff&bg_color=0d1117" width="55%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StehMaria&layout=compact&hide_border=true&title_color=2E86C1&text_color=ffffff&bg_color=0d1117" width="35%" />
-</div>
 
 
 <div align="center">
@@ -79,11 +75,7 @@ class TechStack extends Desenvolvedor {
   </a>
 </div>
 
-<div align="center">
-  <br>
-  <b>Estatísticas de Visitantes</b><br>
-  <img src="https://profile-counter.glitch.me/{StehMaria}/count.svg" alt="Visitors Count" />
-</div>
+
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2E86C1&height=120&section=footer"/>
