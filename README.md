@@ -38,13 +38,9 @@ class TechStack extends Desenvolvedor {
   };
   
   ciberseguranca = ['Kali Linux', 'ELK Stack', 'OpenSSF', 'OWASP Frameworks', 'Checkmarx'];
-  
   infra_cloud = ['AWS', 'GCP', 'Docker', 'Firebase'];
-  
   dados_ia = ['TensorFlow', 'Keras', 'PyTorch', 'Scikit-learn', 'Pandas', 'NumPy'];
-  
   observabilidade = ['Grafana', 'Datadog'];
-  
   bancos_de_dados = ['MongoDB', 'MySQL', 'PostgreSQL', 'ElasticSearch'];
 }
 ```
@@ -71,28 +67,22 @@ class TechStack extends Desenvolvedor {
 
 </div>
 
-
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <img width="55%" height="195px" src="https://github-readme-stats.vercel.app/api?username=StehMaria&show_icons=true&count_private=true&hide_border=true&title_color=2E86C1&icon_color=2E86C1&text_color=ffffff&bg_color=0d1117" alt="Steh Maria github stats" />
-  <img width="35%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StehMaria&layout=compact&hide_border=true&title_color=2E86C1&text_color=ffffff&bg_color=0d1117" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=StehMaria&show_icons=true&count_private=true&hide_border=true&title_color=2E86C1&icon_color=2E86C1&text_color=ffffff&bg_color=0d1117" width="55%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StehMaria&layout=compact&hide_border=true&title_color=2E86C1&text_color=ffffff&bg_color=0d1117" width="35%" />
 </div>
 
 
-
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=StehMaria&bg_color=fffff&color=2E86C1&line=37DBF5&point=2E86C1&area_color=37DBF5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=StehMaria&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
+<div align="center">
+  <a href="https://github.com/StehMaria">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=StehMaria&bg_color=0d1117&color=2E86C1&line=37DBF5&point=2E86C1&area_color=37DBF5&hide_border=true" width="100%" />
+  </a>
+</div>
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{StehMaria}/count.svg" /></p> 
-<br>
+  <br>
+  <b>Estatísticas de Visitantes</b><br>
+  <img src="https://profile-counter.glitch.me/{StehMaria}/count.svg" alt="Visitors Count" />
 </div>
 
 
